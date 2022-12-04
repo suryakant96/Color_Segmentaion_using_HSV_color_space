@@ -9,11 +9,11 @@ In this project ball is tracked with the color thresholding technique for segmen
 # libraries used :
 1.) opencv 
 
- To install opencv: pip install opencv-python
+ To install opencv: ``pip install opencv-python``
 
 2.)numpy
 
- To install numpy: pip install numpy
+ To install numpy: ``pip install numpy``
  
 # Data
  Drive link: https://drive.google.com/drive/folders/1_cgJJYl4J4la-rhh8nm06EYjKoOshZJy?usp=share_link
